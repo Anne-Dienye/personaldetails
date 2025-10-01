@@ -1,2 +1,7 @@
 # personaldetails
-print(*),
+
+
+
+
+
+
